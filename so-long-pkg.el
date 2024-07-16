@@ -1,0 +1,2 @@
+;; Generated package description from so-long.el  -*- no-byte-compile: t -*-
+(define-package "so-long" "1.1.2.0.20240102.22814" "Say farewell to performance problems with minified code." '((emacs "24.4")) :commit "7f377407b4b7d6ac9994ed983d7516bc42139885" :authors '(("Phil Sainty" . "psainty@orcon.net.nz")) :maintainer '("Phil Sainty" . "psainty@orcon.net.nz") :keywords '("convenience") :url "https://savannah.nongnu.org/projects/so-long")
