@@ -1,2 +1,2 @@
-;; Generated package description from so-long.el  -*- mode: lisp-data; no-byte-compile: t -*-
-(define-package "so-long" "1.1.2.0.20250315.100518" "Say farewell to performance problems with minified code." '((emacs "24.4")) :commit "f5f3fb7dd4e7d0c1fa235309d29d8d1c9432c277" :authors '(("Phil Sainty" . "psainty@orcon.net.nz")) :maintainer '("Phil Sainty" . "psainty@orcon.net.nz") :keywords '("convenience") :url "https://savannah.nongnu.org/projects/so-long")
+;; Generated package description from so-long.el  -*- no-byte-compile: t -*-
+(define-package "so-long" "1.1.2.0.20251226.102212" "Say farewell to performance problems with minified code." '((emacs "24.4")) :commit "9affabf6dbe46444a400c4687b721235dd7c5e1e" :authors '(("Phil Sainty" . "psainty@orcon.net.nz")) :maintainer '("Phil Sainty" . "psainty@orcon.net.nz") :keywords '("convenience") :url "https://savannah.nongnu.org/projects/so-long")
